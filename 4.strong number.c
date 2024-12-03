@@ -4,7 +4,7 @@ int main(){
    int fact,rem;
    printf("Enter a number : ");
    scanf("%d",&n);
-   printf("");
+   printf("")
    int sum = 0;
    int temp = n;
    while(n){
